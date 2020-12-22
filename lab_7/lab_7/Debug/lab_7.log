@@ -1,0 +1,24 @@
+﻿  lab_7.cpp
+D:\Учёба\3 курс\1 семестр\ООП\lab_7\lab_7\lab_7.cpp(192,41): warning C4305: аргумент: усечение из "double" в "T2"
+          with
+          [
+              T2=float
+          ]
+D:\Учёба\3 курс\1 семестр\ООП\lab_7\lab_7\lab_7.cpp(192,41): warning C4305: аргумент: усечение из "double" в "T1"
+          with
+          [
+              T1=float
+          ]
+D:\Учёба\3 курс\1 семестр\ООП\lab_7\lab_7\lab_7.cpp(193,41): warning C4305: аргумент: усечение из "double" в "T2"
+          with
+          [
+              T2=float
+          ]
+D:\Учёба\3 курс\1 семестр\ООП\lab_7\lab_7\lab_7.cpp(193,41): warning C4305: аргумент: усечение из "double" в "T1"
+          with
+          [
+              T1=float
+          ]
+D:\Учёба\3 курс\1 семестр\ООП\lab_7\lab_7\lab_7.cpp(163): warning C4715: operator+<int,double>: значение возвращается не при всех путях выполнения
+D:\Учёба\3 курс\1 семестр\ООП\lab_7\lab_7\lab_7.cpp(174): warning C4715: operator-<int,double>: значение возвращается не при всех путях выполнения
+  lab_7.vcxproj -> D:\Учёба\3 курс\1 семестр\ООП\lab_7\Debug\lab_7.exe
